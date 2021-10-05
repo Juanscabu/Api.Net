@@ -1,0 +1,17 @@
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.csproj.AssemblyReference.cache
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfoInputs.cache
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.AssemblyInfo.cs
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.csproj.CoreCompileInputs.cache
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Persistance.deps.json
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Persistance.dll
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\ref\Persistance.dll
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Persistance.pdb
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Application.dll
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Domain.dll
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Application.pdb
+D:\Proyectos\CursoRESTful\Persistance\bin\Debug\net5.0\Domain.pdb
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.dll
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\ref\Persistance.dll
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.pdb
+D:\Proyectos\CursoRESTful\Persistance\obj\Debug\net5.0\Persistance.csproj.CopyComplete
