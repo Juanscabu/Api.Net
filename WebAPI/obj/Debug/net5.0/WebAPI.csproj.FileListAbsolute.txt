@@ -76,4 +76,9 @@ D:\Proyectos\CursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 D:\Proyectos\CursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 D:\Proyectos\CursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Proyectos\CursoRESTful\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\Proyectos\CursoRESTful\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete

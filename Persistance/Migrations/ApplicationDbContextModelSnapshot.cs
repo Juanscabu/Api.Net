@@ -66,6 +66,7 @@ namespace Persistance.Migrations
                         .HasColumnType("nvarchar(80)");
 
                     b.Property<string>("Telefono")
+                        .IsRequired()
                         .HasMaxLength(9)
                         .HasColumnType("nvarchar(9)");
 

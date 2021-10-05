@@ -18,13 +18,16 @@ namespace Domain.Entities
 
         public string Direccion {  get; set; }
 
-         public int Edad {
+         public int Edad 
+        {
             get {
-                if (this._edad <= 0) {
+                if (this._edad <= 0)
                     this._edad = new DateTime(DateTime.Now.Subtract(this.FechaNacimiento).Ticks).Year - 1;
-                    }
                 return this._edad;
-                }
+            }
+            set {
+                this._edad = value;
+            }
         }
 
     }
