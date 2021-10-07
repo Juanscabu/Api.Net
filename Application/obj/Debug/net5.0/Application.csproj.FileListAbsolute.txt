@@ -12,4 +12,3 @@ D:\Proyectos\CursoRESTful\Application\obj\Debug\net5.0\ref\Application.dll
 D:\Proyectos\CursoRESTful\Application\obj\Debug\net5.0\Application.pdb
 D:\Proyectos\CursoRESTful\Application\bin\Debug\net5.0\Domain.dll
 D:\Proyectos\CursoRESTful\Application\bin\Debug\net5.0\Domain.pdb
-D:\Proyectos\CursoRESTful\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
